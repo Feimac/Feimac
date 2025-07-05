@@ -8,8 +8,8 @@
 ## 🌱 Sobre mim
 - 🎓 Graduando na **UTFPR-Curitiba** (Bacharelado em SI)  
 - 📊 Pesquisa em **Aprendizado de Máquina** aplicada ao transporte público  
-- ✍️ Atualmente aprendendo **Inteligência Artifical** 
-- 💬 Pergunte-me sobre Python, Pandas, Folium, Streamlit, CGNE/CGNR, ROS2, Power BI  
+- ✍️ Atualmente aprendendo **Inteligência Artificial**  
+- 💬 Pergunte-me sobre Python, Pandas, Folium, Streamlit, ROS 2, Power BI  
 
 ## 🔧 Tech Stack & Ferramentas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,16 +25,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feimac&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
-<!-- Se usar lowlighter/metrics -->
-<!-- <img src="https://raw.githubusercontent.com/**SEU_USUARIO**/**SEU_USUARIO**/master/assets/metrics.svg" alt="Metrics" width="100%"> -->
+<!-- Se usar lowlighter/metrics
+<img src="https://raw.githubusercontent.com/Feimac/Feimac/master/assets/metrics.svg" alt="Metrics" width="100%"> -->
 
 ## 🚀 Projetos em destaque
-- [🚌 Análise de Atrasos no Transporte Público]([[https://github.com/SEU_USUARIO/transport-delay-analysis](https://github.com/Feimac/RoboAutonomo)])  
-- [🤖 turtle_move_pkg – Robô autônomo ROS2]([https://github.com/SEU_USUARIO/turtle_move_pkg](https://github.com/Feimac/RoboAutonomo))  
+- [🚌 Análise de Atrasos no Transporte Público](https://github.com/Feimac/transport-delay-analysis)  
+- [🤖 turtle_move_pkg – Robô autônomo ROS 2](https://github.com/Feimac/RoboAutonomo)  
 
 ## 📫 Como me encontrar
-[![LinkedIn Badge](https://img.shields.io/badge/-Felipe_Snitynski-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/felipe-snitynski-camillo-07b09a1b1)
-[![Gmail Badge](https://img.shields.io/badge/felipescamillo2018@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](felipescamillo2018@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Felipe_Snitynski-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-snitynski-camillo-07b09a1b1)
+[![Gmail Badge](https://img.shields.io/badge/felipescamillo2018@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipescamillo2018@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Feimac&color=blue)
 
 ---
