@@ -2,7 +2,7 @@
 <h1 align="center">Olá, eu sou Felipe 👋</h1>
 
 <p align="center">
-  <em>Estudante de Sistemas de Informação | Entusiasta de Dados | Buscando estágio na área de Dados</em>
+  <em>Estudante de Sistemas de Informação | Entusiasta de Dados </em>
 </p>
 
 ## 🌱 Sobre mim
