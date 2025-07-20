@@ -35,7 +35,7 @@
 ## 📫 Como me encontrar
 [![LinkedIn Badge](https://img.shields.io/badge/-Felipe_Snitynski-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-snitynski-camillo-07b09a1b1)
 [![Gmail Badge](https://img.shields.io/badge/felipescamillo2018@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felipescamillo2018@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Feimac&color=blue)
+
 
 ---
 
